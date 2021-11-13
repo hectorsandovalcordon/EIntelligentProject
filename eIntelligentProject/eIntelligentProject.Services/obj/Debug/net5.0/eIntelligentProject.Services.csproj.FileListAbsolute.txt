@@ -1,0 +1,12 @@
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\bin\Debug\net5.0\eIntelligentProject.Services.deps.json
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\bin\Debug\net5.0\eIntelligentProject.Services.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\bin\Debug\net5.0\ref\eIntelligentProject.Services.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\bin\Debug\net5.0\eIntelligentProject.Services.pdb
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.csproj.AssemblyReference.cache
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.AssemblyInfoInputs.cache
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.AssemblyInfo.cs
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.csproj.CoreCompileInputs.cache
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\ref\eIntelligentProject.Services.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Services\obj\Debug\net5.0\eIntelligentProject.Services.pdb

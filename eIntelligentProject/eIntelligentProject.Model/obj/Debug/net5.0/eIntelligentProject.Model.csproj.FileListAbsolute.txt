@@ -1,0 +1,15 @@
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\bin\Debug\net5.0\eIntelligentProject.Model.deps.json
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\bin\Debug\net5.0\eIntelligentProject.Model.runtimeconfig.json
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\bin\Debug\net5.0\eIntelligentProject.Model.runtimeconfig.dev.json
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\bin\Debug\net5.0\eIntelligentProject.Model.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\bin\Debug\net5.0\ref\eIntelligentProject.Model.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\bin\Debug\net5.0\eIntelligentProject.Model.pdb
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.csproj.AssemblyReference.cache
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.AssemblyInfoInputs.cache
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.AssemblyInfo.cs
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.csproj.CoreCompileInputs.cache
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\ref\eIntelligentProject.Model.dll
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.pdb
+D:\EIntelligentProject\eIntelligentProject\eIntelligentProject.Model\obj\Debug\net5.0\eIntelligentProject.Model.genruntimeconfig.cache
